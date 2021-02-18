@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="itec3030_A1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/itec3030_A1_jar</output-path>
+    <root id="archive" name="itec3030_A1.jar">
+      <element id="module-output" name="itec3030_A1" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/assignment1_attachments/SSDCS/3-ClassLibrary-Furnace.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/assignment1_attachments/SSDCS/4-ThermostatFrontEnd.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/assignment1_attachments/SSDCS/1-Standards.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/assignment1_attachments/SSDCS/2-ClassLibrary-TempSensor.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/assignment1_attachments/SSDCS/5-Scenario.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
